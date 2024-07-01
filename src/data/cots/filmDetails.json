@@ -1,0 +1,80 @@
+{
+    "filmDetails": {
+        "title": "Children of the Sea",
+        "subtitle": "Motion Picture Series",
+        "director":"Arya",
+        "directorNote": "I will answer one question - what is the essence of this publication; in other words, the question of what this publication will grow to become.",
+        "section1":"Director's Note",
+        "section2":"Interviews",
+        "section3":"Music",
+        "section4":"Editorial"
+    },
+    "episodes": [
+        {
+            "key": "1",
+            "episodeNumber": "Episode one",
+            "episodeName": "turbulence",
+            "episodePlay": "Play",
+            "episodeDescription": "We venture into sea life on the coasts on India. Watch us take the"
+          },
+          {
+            "key": "2",
+            "episodeNumber": "Episode two",
+            "episodeName": "turbulence",
+            "episodePlay": "Play",
+            "episodeDescription": "We venture into sea life on the coasts on India. Watch us take the"
+          },
+          {
+            "key": "3",
+            "episodeNumber": "Episode three",
+            "episodeName": "turbulence",
+            "episodePlay": "Play",
+            "episodeDescription": "We venture into sea life on the coasts on India. Watch us take the"
+          }
+    ],
+    "partners": [
+        {
+            "key":"1",
+            "name": "Gitanjali J Angmo"
+          },
+          {
+            "key":"2",
+            "name": "Sonam Wangchuk"
+          }
+    ],
+    "interviews" : [
+        {
+            "key": "1",
+            "title": "Raising a Child",
+            "subtitle": "With Gitanjali J Angmo",
+            "text": "Whose woods these are I think I know His house is in the village though He will not see me stopping here To watch his woods fill up with snow"
+          },
+          {
+            "key": "2",
+            "title": "Living Simply",
+            "subtitle": "With Sonam Wangchuk",
+            "text": "My little horse must think it queer To stop without a farmhouse near Between the woods and frozen lake The darkest evening of the year"
+          },
+          {
+            "key": "3",
+            "title": "The Market and Heart",
+            "subtitle": "With Jay Jayshankar",
+            "text": "He gives his harness bells a shake To ask if there is some mistake The only other sound's the sweep Of easy wind and donwy flake"
+          }
+    ],
+    "music": [
+        {
+            "key": "1",
+            "title": "Transcendence",
+            "subtitle": "Extended Play"
+        }
+    ],
+    "writing" : [
+        {
+            "key": "1",
+            "title": "Directing your First Film",
+            "subtitle": "Written by Arya",
+            "text": "The woods are lovely, dark and deep But I have promises to keep And miles to go before I sleep And miles to go before I sleep"
+          }
+    ]
+}

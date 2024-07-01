@@ -1,0 +1,42 @@
+{
+    "episodeDetails": {
+        "filmTitle": "Children of the Sea",
+        "subtitle": "Motion Picture Series",
+        "director":"Arya",
+        "directorNote": "I will answer one question - what is the essence of this publication; in other words, the question of what this publication will grow to become.",
+        "overview": "Two roads diverged in a yellow wood And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth",
+        "languages":"Hindi, English, Bangla",
+        "cc": true,
+        "runtime": "10 min",
+        "episodeTitle": "Turbulence",
+        "episodeNumber": "Episode one"
+    },
+    "partnerCast" : [
+        {
+          "name":"Gitanjali J Angmo",
+          "role":"Playing Jay"
+        },
+        {
+          "name":"Gitanjali J Angmo",
+          "role":"Playing Jay"
+        },
+        {
+          "name":"Gitanjali J Angmo",
+          "role":"Playing Jay"
+        }
+      ],
+      "partnerCrew" : [
+        {
+          "name":"Sonam Wangchuk",
+          "role":"Director"
+        },
+        {
+          "name":"Sonam Wangchuk",
+          "role":"Director"
+        },
+        {
+          "name":"Sonam Wangchuk",
+          "role":"Director"
+        }
+      ]
+}
